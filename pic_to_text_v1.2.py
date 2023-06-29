@@ -43,8 +43,3 @@ for file in imagepath:
         f.write(text)
 
 remove_blankline(res_origin,res_noblank)
-
-
-
-
-
