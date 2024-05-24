@@ -42,13 +42,4 @@ for file in imagepath:
     with open(res_origin, 'a', encoding="utf-8") as f:
         f.write(text)
 
-<<<<<<< HEAD
 remove_blankline(res_origin,res_noblank)
-=======
-remove_blankline(res_origin,res_noblank)
-
-
-
-
-
->>>>>>> 03317b8904aeb97165324f0dc29e88aecd9855ca
